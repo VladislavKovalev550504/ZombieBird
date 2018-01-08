@@ -2,32 +2,11 @@ ZombieBird
 ===
 Arcade game for Android
 
-Requirements
-===
-### 1. Program interfaces
-
-This project will look like a usual android application Floppy Bird and it will be written using libGDX.
-
-### 2. User interface
-
-When the application starts, the user will see game start menu with PLAY button.
-
-### 3. User characteristics
-
-This application will be made for young people from 10 to 20 years old.
-
-### 4. Suqqestions and dependencies
-
-It can be difficult to run this application on devices with old versions of android.
-
-
-System requirements
-===
-1. Ability to create a new game session
-2. Ability to display a high score in menu
-3. Ability to set new high score
-
-
-Analogs
-===
-1. Floppy Bird 
+# Содержание
+1 [Документация](Documents)  
+1.1 [Требования](Documents/Требования%20к%20проекту.md)  
+1.2 [Диаграммы](Diagrams)  
+2 [Код](Application/ZombieBird)  
+3 [Информация о тестировании](Testing)  
+3.1 [План тестирования](Testing/Test%20plan.md)  
+3.2 [Представление результатов](Testing/Test%20results.md)  
